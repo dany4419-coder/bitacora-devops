@@ -1,1 +1,2 @@
-# Bitacore de Daniel - Master Edition
+# Bitacora de Dany - Conflicto Edition
+
