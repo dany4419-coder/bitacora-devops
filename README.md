@@ -1,1 +1,1 @@
-# Mi Bitacora DevOps - Dany
+# Bitacore de Daniel - Master Edition
